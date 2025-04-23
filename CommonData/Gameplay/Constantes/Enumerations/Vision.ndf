@@ -1,0 +1,8 @@
+// TVisionUnitType
+EVisionUnitType is TBaseClass
+(
+    Standard             is 0
+    LowAltitude          is 1
+    AntiRadar            is 2
+    HighAltitude         is 3
+)
